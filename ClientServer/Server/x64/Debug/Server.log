@@ -1,0 +1,6 @@
+﻿  Server.cpp
+C:\Users\sofia\source\repos\ClientServer\Server\Server.cpp(43,60): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sofia\source\repos\ClientServer\Server\Server.cpp(54,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Server.vcxproj -> C:\Users\sofia\source\repos\ClientServer\x64\Debug\Server.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

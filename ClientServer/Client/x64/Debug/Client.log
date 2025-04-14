@@ -1,0 +1,8 @@
+﻿  Client.cpp
+C:\Users\sofia\source\repos\ClientServer\Client\Client.cpp(57,68): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sofia\source\repos\ClientServer\Client\Client.cpp(87,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sofia\source\repos\ClientServer\Client\Client.cpp(103,72): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\sofia\source\repos\ClientServer\Client\Client.cpp(112,72): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Client.vcxproj -> C:\Users\sofia\source\repos\ClientServer\x64\Debug\Client.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
